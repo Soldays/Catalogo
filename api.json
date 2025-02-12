@@ -1,0 +1,47 @@
+[
+    {
+        "nombre": "Camiseta Casual",
+        "precio": "$20.00",
+        "miniUrl": "http://actiividades.lovestoblog.com/img/1.png"
+    },
+    {
+        "nombre": "Pantalón Elegante",
+        "precio": "$40.00",
+        "miniUrl": "http://actiividades.lovestoblog.com/img/2.png"
+    },
+    {
+        "nombre": "Chaqueta de Invierno",
+        "precio": "$60.00",
+        "miniUrl": "http://actiividades.lovestoblog.com/img/3.png"
+    }
+    ,{
+        "nombre": "Chaqueta de Invierno",
+        "precio": "$60.00",
+        "miniUrl": "http://actiividades.lovestoblog.com/img/4.png"
+    }
+    ,{
+        "nombre": "Chaqueta de Invierno",
+        "precio": "$60.00",
+        "miniUrl": "http://actiividades.lovestoblog.com/img/5.png"
+    }
+    ,{
+        "nombre": "Chaqueta de Invierno",
+        "precio": "$60.00",
+        "miniUrl": "http://actiividades.lovestoblog.com/img/6.png"
+    },
+    {
+        "nombre": "Chaqueta de Invierno",
+        "precio": "$60.00",
+        "miniUrl": "http://actiividades.lovestoblog.com/img/7.png"
+    },
+    {
+        "nombre": "Chaqueta de Invierno",
+        "precio": "$60.00",
+        "miniUrl": "http://actiividades.lovestoblog.com/img/8.png"
+    },
+    {
+        "nombre": "Chaqueta de Invierno",
+        "precio": "$60.00",
+        "miniUrl": "http://actiividades.lovestoblog.com/img/9.png"
+    }
+]
